@@ -1,0 +1,5 @@
+'segunda'
+'terça'
+'quarta'
+'quinta'
+'sexta'

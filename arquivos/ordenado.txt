@@ -1,0 +1,8 @@
+0
+1
+2
+3
+45
+55
+6
+escrevendo no arquivo
